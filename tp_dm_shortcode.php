@@ -27,7 +27,7 @@ function tp_dm_shortcode() {
 
 }
 
-// add shortcode on installation function
+// add shortcode
 add_shortcode( 'tp-mobile-desktop', 'tp_dm_shortcode');
 
 ?>
