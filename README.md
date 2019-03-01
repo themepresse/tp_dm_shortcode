@@ -10,3 +10,5 @@ Simply copy the tp_dm_shortcode.php into your Wordpress plugins folder and activ
 # Usage
 
 Use [tp-mobile-desktop] and have fun :)
+
+https://www.osulzer.at
